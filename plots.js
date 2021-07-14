@@ -26,19 +26,13 @@ function buildMetadata(sample) {
       var metadata = data.metadata;
       var resultArray = metadata.filter(sampleObj => sampleObj.id == sample);
       var result = resultArray[0];
-
-      
-
-
+            
       var PANEL = d3.select("#sample-metadata");
   
       PANEL.html("");
-      //PANEL.append("h6").text(result.location);
-
-      
+   
       for (let [key, value] of Object.entries(result)) { 
         key = key.toUpperCase();
-        console.log(key);
         PANEL.append("h6").text(key  + "  " + " : " + " " + value);
       }
     }); 
