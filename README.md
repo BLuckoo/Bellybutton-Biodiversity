@@ -38,7 +38,7 @@ The following information is available from the website:
   <img width="683" alt="Bacteria_Cultures" src="https://user-images.githubusercontent.com/82583576/126015199-0f9b86b2-fccc-4314-8972-0eec88e70822.PNG">
 </p>
 
-4. The dataset also included the weekly wash frequency for each participant. This information is displayed using a gauge meter as illustrated below.
+4. The dataset also includes the weekly wash frequency for each participant. This information is displayed using a gauge meter as illustrated below.
 <p align="center">
     <img width="416" alt="Gsuge" src="https://user-images.githubusercontent.com/82583576/126015334-45ced59a-e315-430f-8719-df8f5b9c9ad2.PNG">
 </p>
