@@ -13,7 +13,7 @@ Some of the features of the website include:
 -   Customization of the background colour - grey has been used following the clients's choice as well as it provides a good contrast.
 -   Use of microbials image as an illustration.
 -   A short summary of each chart has been provided above the chart.
--   A fixed navigation bar has been inserted at the top of the page - allowing for the navigation bar to always be visible. Each choice on the navigation bar changes colour when hovered over and the user is directed to the are of the page that has been selected.
+-   A fixed navigation bar has been inserted at the top of the page - allowing for the navigation bar to always be visible. Each option on the navigation bar changes colour when selected and the user is directed to the relevant section of the website.
 -   When the website is refreshed, the first participant's details will show up on the site. As the participant ID is selected in the drop down menu, all the charts are updated accordingly.
 
 
@@ -43,6 +43,6 @@ The following information is available from the web site:
     <img width="416" alt="Gsuge" src="https://user-images.githubusercontent.com/82583576/126015334-45ced59a-e315-430f-8719-df8f5b9c9ad2.PNG">
 </p>
 
-The website has been published using GitHub pages and the url is as follows: https://bluckoo.github.io/Bellybutton-Biodiversity/ 
+The website has been deployed using GitHub pages and the url is as follows: https://bluckoo.github.io/Bellybutton-Biodiversity/ 
 
 
