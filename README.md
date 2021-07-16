@@ -21,14 +21,14 @@ Some of the features of the website include:
 
 The participants in the research have been provided with a "Test Subject ID No:" which they can use to access their demographic data and see the level and types of microbials found in their navels.
 
-The following information is available from the web site:
+The following information is available from the website:
 
-1. Demographic Info as per the chart below which shows the information provided by the participant
+1. Demographic Info as per the chart below displays the information provided by the participant
 <p align="center">
     <img width="114" alt="Demographic Info" src="https://user-images.githubusercontent.com/82583576/126014431-1c8e4e02-727a-4077-a835-4be47e5f6cbc.PNG">
  </p>
     
-2. A horizontal bar chart using the sample results collected for the said participant showing the top ten bacteria cultures found is also provided on the web page. As the participant hovers each bar on the chart, information with regards to the type and quantity of "Operational Taxonomic Units" (OTU's) - which is a group of organisms - found in the navel is published.
+2. A horizontal bar chart using the sample results collected for the said participant showing the top ten bacteria cultures found is provided on the website. When the participant hovers each bar on the chart, information with regards to the type and quantity of "Operational Taxonomic Units" (OTU's) - which is a group of organisms - found in the navel is published.
 <p align="center">
     <img width="678" alt="Top_10" src="https://user-images.githubusercontent.com/82583576/126014871-8e07439e-0eea-4039-b94e-ac7514105091.PNG">
 </p>
