@@ -6,7 +6,14 @@
 
 An interactive dashboard has been developed to present the findings of a study done on the diversity of microbials living in human navels.
 
-For the purposes of this project the Research Dataset has been provided in a JSON file, and the dashboard has been developed using JavaScript, HTML and CSS.
+For the purposes of this project the Research Dataset has been provided in a JSON file, and the dashboard has been developed using JavaScript, HTML, CSS and Plotly librairies.
+Some of the features of the website include:
+-   Customization of the background colour - grey has been used following the clients's choice as well as it provides a good contrast.
+-   Use of microbials image as an illustration.
+-   A short summary of each chart has been provided above the chart.
+-   A fixed navigation bar has been inserted at the beginning of the page - as the page is scrolled the navigation bar is always visible. Each choice on the navigation bar changes colour when hovered over and the user is directed to the are of the page that has been selected.
+
+
 
 The participants in the research have been provided with a "Test Subject ID No:" which they can use to access their demographic data and see the level and types of microbials found in their navels.
 
@@ -33,4 +40,5 @@ The following information is available from the web site:
 </p>
 
 The website has been published using GitHub pages and the url is as follows: https://bluckoo.github.io/Bellybutton-Biodiversity/ 
+
 
