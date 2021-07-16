@@ -13,7 +13,7 @@ Some of the features of the website include:
 -   Customization of the background colour - grey has been used following the clients's choice as well as it provides a good contrast.
 -   Use of microbials image as an illustration.
 -   A short summary of each chart has been provided above the chart.
--   A fixed navigation bar has been inserted at the top of the page - allowing for the navigation bar to always visible. Each choice on the navigation bar changes colour when hovered over and the user is directed to the are of the page that has been selected.
+-   A fixed navigation bar has been inserted at the top of the page - allowing for the navigation bar to always be visible. Each choice on the navigation bar changes colour when hovered over and the user is directed to the are of the page that has been selected.
 -   When the website is refreshed, the first participant's details will show up on the site. As the participant ID is selected in the drop down menu, all the charts are updated accordingly.
 
 
