@@ -43,6 +43,6 @@ The following information is available from the website:
     <img width="416" alt="Gsuge" src="https://user-images.githubusercontent.com/82583576/126015334-45ced59a-e315-430f-8719-df8f5b9c9ad2.PNG">
 </p>
 
-The website has been deployed using GitHub pages and the url is as follows: 
+The Belly Button BioDiversity website can be accesssed [HERE](
 
 
